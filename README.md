@@ -1,5 +1,6 @@
 # Brain-Tumour-CNN-YOLOv2-Medical-SAM
 Upgraded version of previous "Brain-Tumour-CNN" project.
+
 Kurulum:
 - zip dosyanını "buraya çıkart" diyerek çıkartın.
 - matlab'i açın.
@@ -9,6 +10,7 @@ Kurulum:
 - alexnet, resnet50, medicalsegmentanythingmodel için aynı adımları tekrarlayın.
 - matlab'de Deep Learning Toolbox, Image Processing Toolbox, Computer Vision Toolbux ve Medical Imaging Toolbox'un kurulu olduğundan emin olun.
 - app isimli dosyayı app designer'dan açın.
+
 Kullanım:
 - sol kısımda "TRAIN" kısmı bulunmaktadır.
 - istediğiniz parametreleri seçerek model trainleyin.
