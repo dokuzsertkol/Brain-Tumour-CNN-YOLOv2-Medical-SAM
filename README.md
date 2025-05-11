@@ -8,7 +8,7 @@ Kurulum:
 - matlab'de add-on manager'ın açılması lazım.
 - googlenet'in kurulumunu sağlayın.
 - alexnet, resnet50, medicalsegmentanythingmodel için aynı adımları tekrarlayın.
-- matlab'de Deep Learning Toolbox, Image Processing Toolbox, Computer Vision Toolbux ve Medical Imaging Toolbox'un kurulu olduğundan emin olun.
+- matlab'de Deep Learning Toolbox, Image Processing Toolbox, Computer Vision Toolbox ve Medical Imaging Toolbox'un kurulu olduğundan emin olun.
 - app isimli dosyayı app designer'dan açın.
 
 Kullanım:
