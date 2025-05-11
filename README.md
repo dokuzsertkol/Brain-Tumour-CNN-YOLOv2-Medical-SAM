@@ -1,5 +1,5 @@
 # Brain-Tumour-CNN-YOLOv2-Medical-SAM
-Upgraded version of previous "Brain-Tumour-CNN" project.
+Upgraded version of the previous "Brain-Tumour-CNN" project.
 
 Kurulum:
 - zip dosyanını "buraya çıkart" diyerek çıkartın.
